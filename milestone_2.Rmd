@@ -1,0 +1,18 @@
+---
+title: "Milestone 2"
+author: "Amal Abdi"
+date: "9/20/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Project 1: How Couples Meet and Stay Together
+
+This project has various graphs and data about couples. The first tab on the website is focused on the various characteristics of the couples such as age difference and education level. Meanwhile, the second tab is focused on how they meet from where to what time and age and even how this trend varies by region. I think a pro of this project is that it uses both heterosexual and sam sex couples. A con of this project is that some of the graphs are not readable because the text on the title or x/y labels are squished together. Overall, however, this was an interesting project.
+
+## Project 2: Harvard Blocking Group
+
+This project used extensive data cleaning. I liked that on the homepage, the research questions are stated outright so I understand the purpose of the project. Furthermore, they provide a handy introduction to those who might not be familiar with Harvard's housing system. I thought it was really cool that they compared their data with that of the Crimson, a newspaper that is fairly trustworthy amongst the Harvard community (in my opinion). The only critique I have is that there could have been a more unified design for all the graphs.
